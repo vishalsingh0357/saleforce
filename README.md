@@ -56,7 +56,8 @@
 ![Custom Object](images/Screenshot 2025-07-20 123147.png)
 
 ### 🔄 Flow & Automation
-![Flow Setup](images/Screenshot 2025-07-20 123204.png)
+![Flow Setup](images/Screenshot 2025-07-20 123204.png)<img width="1920" height="1080" alt="Screenshot 2025-07-20 123411" src="https://github.com/user-attachments/assets/f8d8b375-fc4d-4df4-9e42-a6436633ad97" />
+
 
 ### 📧 Email Template - Order Confirmation
 ![Email Template](images/Screenshot 2025-07-20 123232.png)
