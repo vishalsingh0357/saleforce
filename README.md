@@ -53,40 +53,29 @@
 ## 🖼️ Screenshots
 
 ### 🎯 Custom Objects & Fields
-![Custom Object](images/Screenshot 2025-07-20 123147.png)
+<img width="1200" height="900" alt="Screenshot 2025-07-20 123147" src="https://github.com/user-attachments/assets/09e6f054-c11f-477f-a788-3a09c6ff0de0" />
+
 
 ### 🔄 Flow & Automation
-![Flow Setup](images/Screenshot 2025-07-20 123204.png)<img width="1920" height="1080" alt="Screenshot 2025-07-20 123411" src="https://github.com/user-attachments/assets/f8d8b375-fc4d-4df4-9e42-a6436633ad97" />
+<img width="1200" height="900" alt="Screenshot 2025-07-20 123334" src="https://github.com/user-attachments/assets/d009dce2-ff4d-41fb-a553-b3630543b84b" />
+
 
 
 ### 📧 Email Template - Order Confirmation
-![Email Template](images/Screenshot 2025-07-20 123232.png)
+<img width="1200" height="900" alt="Screenshot 2025-07-20 123303" src="https://github.com/user-attachments/assets/5876181a-3fba-4d95-b18d-65a7035e7505" />
+
 
 ### 🔢 Trigger for Order Total
-![Trigger Screenshot](images/Screenshot 2025-07-20 123243.png)
+<img width="1920" height="1080" alt="Screenshot 2025-07-20 123411" src="https://github.com/user-attachments/assets/95f620f4-ca07-4664-8751-6bc27f856bc2" />
+
 
 ### 📉 Trigger for Stock Deduction
-![Stock Deduction Trigger](images/Screenshot 2025-07-20 123303.png)
+<img width="1920" height="1080" alt="Screenshot 2025-07-20 123358" src="https://github.com/user-attachments/assets/d2931fe1-964c-4893-9167-0b2433e1c76c" />
+
 
 ### 👥 Record Details & Testing
-![Sample Record](images/Screenshot 2025-07-20 123334.png)
-![Trigger Test](images/Screenshot 2025-07-20 123358.png)
-
-### 📊 Reporting & Dashboards
-![Reports](images/Screenshot 2025-07-20 123411.png)
-
----
-
-## 📥 How to Use / Deploy
-
-1. Clone or download the repository.
-2. Upload Apex triggers under `triggers/` to your org.
-3. Create the corresponding custom objects and fields.
-4. Import and assign email templates from `email-templates/`.
-5. Add automation flows and test using sample data.
-6. Place screenshots under the `images/` folder for documentation.
-
----
+<img width="1200" height="900" alt="Screenshot 2025-07-20 123204" src="https://github.com/user-attachments/assets/b06f1339-5e4a-4777-9f33-541109bb2cc0" />
+<img width="1200" height="900" alt="Screenshot 2025-07-20 123220" src="https://github.com/user-attachments/assets/81509fb7-0ff5-4251-8b73-d654ed8681c2" />
 
 ## 🏁 Conclusion
 
@@ -94,6 +83,6 @@ This project shows how Salesforce can be effectively used for custom business so
 
 ---
 
-## 🙋‍♂️ Developed by
-**Vishal Singh**
+# 🙋‍♂️ Developed by
+Vishal Singh
 Salesforce Virtual Internship Program, 2025
